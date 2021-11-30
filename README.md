@@ -1,4 +1,4 @@
-![Image](assets/xrdesign_logo.png)
+![Image](assets/art_empathy_logo.png)
 # Description
 
 The increasing sophistication and availability of Augmented and Virtual Reality
