@@ -33,6 +33,8 @@ Demonstration of the Whiteboard and Gestural interface from the UCSD Design Inno
 
 # Workshops, Presentations, Papers
 
+- ["Art + Empathy Lab", SDMA Members Magazine April-May 2020](https://drive.google.com/file/d/1ryMxhuMBpu7ZlP_TtnH7EVYjC7b3qCzC/view?usp=sharing)
+
 [Coming Soon]
 
 # Team
