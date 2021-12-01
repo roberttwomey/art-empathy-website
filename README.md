@@ -32,7 +32,7 @@ Demonstration of the Whiteboard and Gestural interface from the UCSD Design Inno
 [Coming Soon]
 
 # Workshops, Presentations, Papers
-- Abraham Schaecher ["Generative Art Based on the Input of Emotions"](https://drive.google.com/file/d/1iJKACKFgsaugdGessFOjrSw332WmAsPo/view?usp=sharing), UCARE Talk, Fall 2021
+- Abraham Schaecher ["Generative Art Based on the Input of Emotions"](https://drive.google.com/file/d/1iJKACKFgsaugdGessFOjrSw332WmAsPo/view?usp=sharing), UCARE 2021 presentation, Fall 2021
 - ["Art + Empathy Lab" feature](https://drive.google.com/file/d/1ryMxhuMBpu7ZlP_TtnH7EVYjC7b3qCzC/view?usp=sharing), SDMA Members Magazine, San Diego Museum of Art, April-May 2020
 
 # Team
