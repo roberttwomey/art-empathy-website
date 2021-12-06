@@ -42,7 +42,7 @@ Demonstration of the Whiteboard and Gestural interface from the UCSD Design Inno
 - Sydney Kessler, Researcher
 - Enrique, Researcher
 - Abraham Schaecher, UCARE Undergraduate Researcher
-- [TK Research Scientist from Germany]
+- Leon [Research Scientist from Germany]
 
 # Contact
 To learn more, contact PI Ying Wu at [ycwu@ucsd.edu](mailto:ycwu@ucsd.edu) or Robert Twomey at [rtwomey@unl.edu](mailto:rtwomey@unl.edu)
