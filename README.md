@@ -39,10 +39,10 @@ Demonstration of the Whiteboard and Gestural interface from the UCSD Design Inno
 - Ying Wu, PI [insight.ucsd.edu](https://insight.ucsd.edu)
 - Robert Twomey, co-PI [roberttwomey.com](https://roberttwomey.com)
 - Patrick Coleman, Investigator
-- Sydney Kessler, Researcher
-- Enrique, Researcher
+- Sydney Kessler, Researcher (alumnus)
+- Enrique Carrillosulub, Researcher
 - Abraham Schaecher, UCARE Undergraduate Researcher
-- Leon [Research Scientist from Germany]
+- Leon Lange, visiting Phd from U.Osnabrük [website](https://www.psychologie-cms.uni-osnabrueck.de/institut/mitarbeiterverzeichnis.html?module=TemplatePersondetails&target=14827&source=14827&config_id=222b0a1a67ec3b10e56bf6ec76c2a2be&range_id=9ae3b681c2e2b51c20fd3b31756a5dd4&username=leolange&group_id=e5236ecce784b16f71e2261d6faaf8a5)
 
 # Contact
 To learn more, contact PI Ying Wu at [ycwu@ucsd.edu](mailto:ycwu@ucsd.edu) or Robert Twomey at [rtwomey@unl.edu](mailto:rtwomey@unl.edu)
